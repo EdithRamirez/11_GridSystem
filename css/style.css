@@ -1,0 +1,145 @@
+/* Inserta tu codigo aqui */
+/*estilos encabezado*/
+.encabezado, .pie_pag{
+	background-color: #333232;
+}
+.logo img{
+	width: 50%;
+	height: 50%;
+	padding: 5%;
+	margin: 5%;
+}
+.nav-principal ul{
+	margin: 2% 0;
+	padding: 2%;
+	text-align: center;
+}
+.nav-principal ul li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 2%;
+	font-size: .8em;
+	margin: 2% 0;
+}
+.nav-principal li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+/*estilos fotos seccion*/
+.seccion{
+	background-color: #C6C5C5;
+	border-bottom: 1px solid #999;
+	padding-bottom: 2%;
+}
+h3{
+	color: #323131;
+	padding: 2% 0;
+}
+h3>a{
+	font-size: .6em;
+	color: #1223C6;
+	text-decoration: none;
+}
+.img-grande img{
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	padding: 1%;
+	border: 1px solid #999;
+	background-color: #fff;
+}
+.texto{
+	color: #1223C6;
+	text-align: center;
+	font-weight: bold;
+}
+
+/*estilos seccion principal*/
+.articulo{
+	margin-top: 3%;
+}
+.img-peque{
+	margin: 1%;
+	padding: 1% 0;
+}
+.img-peque img{
+	width: 100%;
+	height: 100%;
+	padding: 2%;
+	border: 1px solid #999;
+}
+.titulo{
+	color: #1223C6;
+	font-size: .8em;
+	text-align: center;
+	padding-right: 20%;
+}
+
+/*estilos renglon derecho*/
+.derecha{
+	/*padding: 2%; */
+}
+h4{
+	font-size: 1em;
+	color: #555;	
+	border-bottom: 1px solid #ddd;
+	padding: 5%;
+}
+.icono ul li{
+	display: block;
+	padding: 3%;
+}
+.icono img{
+	width: 5%;
+	height: 5%; 
+	
+}
+.icono li img{
+	margin-right: 5%;
+	text-decoration: none;
+}
+.icono li a{
+	text-decoration: none;
+	color: #2B47AE;
+}
+.texto-der span{
+	color: #2B47AE;
+}
+.texto-der{
+	color: #000;
+	border-top: 1px solid #ddd;
+	padding-top: 5%;
+	font-size: .9em;
+}
+
+/*estilos pie de pagina*/
+.pie_pag{
+	padding: 3%;
+
+}
+.nav-pie ul{
+	padding: 2%;
+	text-align: center;
+}
+.nav-pie ul li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 1%;
+	font-size: .8em;
+}
+.nav-pie li a{
+	text-decoration: none;
+	color: #A2A0A0;
+}
+.derechos{
+	font-size: .7em;
+	text-align: center;
+	color: #DCDBDB;
+}
+.blanco{
+	color: #fff;
+}
+.blanco span{
+	color: #A2A0A0;
+}
