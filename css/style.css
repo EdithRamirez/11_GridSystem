@@ -76,6 +76,11 @@ h3>a{
 	padding-right: 20%;
 }
 
+.ultimo{
+	width: 120px;!important
+	height: 120px;!important
+}
+
 /*estilos renglon derecho*/
 .derecha{
 	/*padding: 2%; */
